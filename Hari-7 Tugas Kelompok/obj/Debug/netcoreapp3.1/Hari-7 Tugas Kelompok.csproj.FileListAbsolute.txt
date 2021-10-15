@@ -1,0 +1,61 @@
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.exe
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.deps.json
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.runtimeconfig.json
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.runtimeconfig.dev.json
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.dll
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.pdb
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.csproj.AssemblyReference.cache
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.AssemblyInfoInputs.cache
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.AssemblyInfo.cs
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.csproj.CoreCompileInputs.cache
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.dll
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.pdb
+C:\Users\Afif Junihar Fakri\source\repos\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.genruntimeconfig.cache
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.exe
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.deps.json
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.runtimeconfig.json
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.runtimeconfig.dev.json
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.dll
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.pdb
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.csproj.AssemblyReference.cache
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.AssemblyInfoInputs.cache
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.AssemblyInfo.cs
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.csproj.CoreCompileInputs.cache
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.dll
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.pdb
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.genruntimeconfig.cache
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.csproj.CopyComplete
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.exe
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.deps.json
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.runtimeconfig.json
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.runtimeconfig.dev.json
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.dll
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.pdb
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.csproj.AssemblyReference.cache
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.AssemblyInfoInputs.cache
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.AssemblyInfo.cs
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.csproj.CoreCompileInputs.cache
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.dll
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.pdb
+C:\Users\nkhal\Downloads\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.genruntimeconfig.cache
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.exe
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.deps.json
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.runtimeconfig.json
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.runtimeconfig.dev.json
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.dll
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.pdb
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.csproj.AssemblyReference.cache
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.AssemblyInfoInputs.cache
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.AssemblyInfo.cs
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.csproj.CoreCompileInputs.cache
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.csproj.CopyComplete
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.dll
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.pdb
+C:\Users\Afif Junihar Fakri\OneDrive - UNIVERSITAS INDONESIA\Kerja\MCC Week 2\Hari-7_Tugas_Kelompok_2\Hari-7_Tugas_Kelompok (2)\Hari-7 Tugas Kelompok\Hari-7 Tugas Kelompok\obj\Debug\netcoreapp3.1\Hari-7 Tugas Kelompok.genruntimeconfig.cache
