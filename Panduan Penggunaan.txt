@@ -1,0 +1,2 @@
+Program ini merupakan simulasi dari Replikasi Menu Aplikasi.
+Program ini menerapkan Exception Handling, OOP, Hash(Bcryot), Naming Convention & String Manupilation.
