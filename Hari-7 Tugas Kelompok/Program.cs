@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
 //Anggota Kelompok :
-//Afi
+//Afif
 //Lisza
 //Syauqi
 
