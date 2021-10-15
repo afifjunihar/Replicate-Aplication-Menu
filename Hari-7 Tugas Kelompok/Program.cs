@@ -12,8 +12,7 @@ namespace Hari_7_Tugas_Kelompok
 { 
 
     public class Program
-    {
-       
+    {      
         static void Main()
         {
             List<User> listUser = new List<User>();
